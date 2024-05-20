@@ -1,0 +1,11 @@
+		VISUALIZATIONS AND ANALYSIS USING IBM COGNOS
+
+
+Steps:
+1. Login to your IBM account.
+2.Upload the dataset.
+3. Create a Dashboard.
+4. Select Visualizations of your choice.
+5. Fill/ Drop in the required fields.
+6. Visualizations are created as per the specified fields.
+7. Click on Analysis from the above pane to discover the insights of the visualization.
