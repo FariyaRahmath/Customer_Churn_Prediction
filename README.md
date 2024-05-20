@@ -1,4 +1,4 @@
-# Customer_Churn_Prediction
+# Customer Churn Prediction
 Naan Mudhalvan Project
 This is my 5th sem Naan Mudhalvan Project.
 I used the "Telco Customer Churn" dataset from Kaggle.
